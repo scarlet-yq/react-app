@@ -1,0 +1,3 @@
+export const MODIFY_NAME = 'MODIFY_NAME';
+export const EMPTY_NAME = 'EMPTY_NAME';
+export const REQUEST_MESSAGE = 'REQUEST_MESSAGE';
